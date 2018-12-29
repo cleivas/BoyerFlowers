@@ -1,8 +1,7 @@
 # BoyerFlowers
 
-by Clara Leivas, 2018
-<br>
-licensed under CC BY-SA 4.0
+by Clara Leivas, 2018 <br>
+licensed under CC BY-SA 4.0 <br>
 https://creativecommons.org/licenses/by-sa/4.0/ 
 
 Photos and more information at http://leivas.se/portfolio/boyer-flowers/ 
