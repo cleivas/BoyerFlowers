@@ -1,8 +1,10 @@
 # BoyerFlowers
 
 by Clara Leivas, 2018
-licensed under CC BY-SA 4.0 
+licensed under CC BY-SA 4.0
 https://creativecommons.org/licenses/by-sa/4.0/ 
+
+Photos and more information at http://leivas.se/portfolio/boyer-flowers/ 
 
 Boyer Flowers is a collection of living flowers that reacts to human touch by emitting a fluorescent glow. The project was funded through Region Skåne’s arts grant for digital development and created for ETER festival organized by Little Finger in Lund, Sweden 2018.
 
@@ -15,4 +17,4 @@ Tools: Custom PCB (design by Davey Taylor at DS Prototyp) programmable through t
 Partners: DS prototyp, Little Finger
 Funded by: Region Skåne
 
-Photos and more information: http://leivas.se/portfolio/boyer-flowers/ 
+
