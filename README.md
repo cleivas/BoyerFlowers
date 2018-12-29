@@ -13,8 +13,8 @@ attention making them more likely to be remembered and spread. MCIs play an impo
 
 Boyer Flowers look and act just like regular flowers but with the difference that they react to human touch by emitting a fluorescent glow. The effect is reached through capacitive sensing turning the flowers into touch sensors and through fluorescent paint only visible in UV light. The tech is chosen and implemented in a way to make it as invisible as possible encouraging the visitor to seek supernatural explanations rather than technical.
 
-Tools: Custom PCB (design by Davey Taylor at DS Prototyp) programmable through the Arduino IDE, UV leds, Flowers painted in fluorescent paint
-Partners: DS prototyp, Little Finger
+Tools: Custom PCB (design by Davey Taylor at DS Prototyp) programmable through the Arduino IDE, UV leds, Flowers painted in fluorescent paint <br>
+Partners: DS prototyp, Little Finger <br>
 Funded by: Region Skåne
 
 
